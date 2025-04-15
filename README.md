@@ -7,3 +7,4 @@ Login or registration -> home page (links to categories, example reviews(highest
 	|
 if admin -> shows all reviews, allows for deletion, -> account management page
 sql - table for each category, video id (pk) for category, totals table - for statistics page - video id (fk)
+sql injection - login page, select all query
