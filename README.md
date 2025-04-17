@@ -14,4 +14,6 @@ schema - users (user id (pk), username, email, fname, lname, password (enc))
 	 admin (admin id (pk), username, email, fname, lname, password (enc))
   	 review (review id (pk), user id (fk), rating, comments)
     	 video (video id (pk), user id (fk), url)
+
+Make sure to organize the files into differnet folders.
       	 
